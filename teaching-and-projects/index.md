@@ -43,16 +43,16 @@ underlying academic success through the study of literature
 
 # Projects
 
-## In-Progress
+### In-Progress
 
-### Feminist Choose-Your-Own-Adventure Game - Current
+Feminist Choose-Your-Own-Adventure Game
 - Creating a choose-your-own adventure game/novel using a feminist lens. 
 - Twine, Harlowe 
 
-## Complete
+### Complete
 
-### 2026 Rollins College Carnegie Foundation Community Engagement Reclassification
+2026 Rollins College Carnegie Foundation Community Engagement Reclassification
 - Served as co-lead for Rollins College's Community Engagement Reclassification with the Carnegie Foundation. Consisted of data collection, data analysis, writing, editing, and formatting.
 
-### Kaneka North America LLC Accounting Department Onboarding Manual 
+Kaneka North America LLC Accounting Department Onboarding Manual 
 - Created 107-page Onboarding Manual for Kaneka North America LLC Accounting Department to serve as onboarding training materials for newly hired employees.
