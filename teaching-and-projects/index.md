@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Teaching and Projects 
+title: Teaching & Projects 
 ---
 
 # Teaching Experience
